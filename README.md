@@ -7,7 +7,3 @@ developers Sep 27th
 
 # Mastering Markdown
 https://guides.github.com/features/mastering-markdown/
-
-
-#I LIKE PUPPIES
-:rainbow::rainbow::rainbow::rainbow::rainbow::rainbow::rainbow::rainbow:
