@@ -8,5 +8,5 @@ developers Sep 27th
 # Mastering Markdown
 https://guides.github.com/features/mastering-markdown/
 
-Hi, my name is Jason and I like rainbows and butterflies!
-AND KITTENS
+# After Class
+ `git config --global --unset http.proxy`

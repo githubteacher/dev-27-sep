@@ -1,0 +1,16 @@
+@Eskay81
+GitHub Training Notes : 27th Sept 2016
+
+.......
+.......
+To view invitations:
+
+https://github.com/githubteacher/dev-27-sep/invitations
+
+Wiki : s for higher level not for atomic level changes?
+
+check how to add issues and check boxes in it.
+
+make sure to unset the proxy
+
+git config --global http:.proxy --unset
