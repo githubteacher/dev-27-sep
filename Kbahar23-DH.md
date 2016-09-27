@@ -1,6 +1,6 @@
 ## Places to eat
 - JETs pizza
-- Pizza Hut
+- Khalaf Grill
 - Al-Amer
 
 
