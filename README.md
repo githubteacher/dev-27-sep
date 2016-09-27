@@ -7,3 +7,6 @@ developers Sep 27th
 
 # Mastering Markdown
 https://guides.github.com/features/mastering-markdown/
+
+# After Class
+ `git config --global --unset http.proxy`
