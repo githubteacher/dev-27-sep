@@ -1,5 +1,8 @@
-# My Places To Eat
 
-- vromburger
+# Place to eat
+
+- Vromburger
 - buddys pizza
-- lue thai cafe
+- jets pizza
+- best buddy
+- 
