@@ -1,5 +1,5 @@
 
 ### Type of food to eat
-  - Itallian
+  - Italian
   - Indian
   - Mexican
